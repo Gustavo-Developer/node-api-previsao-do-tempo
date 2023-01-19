@@ -1,0 +1,15 @@
+{
+  "name": "previsao-do-tempo-api",
+  "version": "1.0.0",
+  "description": "NodeJs, Typescript, Jest, TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "typescript"
+  ],
+  "author": "Gustavo Mendes",
+  "license": "ISC"
+}
